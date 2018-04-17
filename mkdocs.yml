@@ -1,0 +1,13 @@
+site_name: Plumed2Pandas
+site_description: Convert Plumed bias files to pandas dataframes
+site_author: Cahit Dalgicdir
+repo_url: https://github.com/cdalgicdir/plumed2pandas
+
+theme: readthedocs
+
+pages:
+- Home: index.md
+- About:
+  - Release Notes: about/changelog.md
+  - Contributing: about/contributing.md
+  - License: about/license.md
